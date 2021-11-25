@@ -32,7 +32,6 @@
 	
 	
 --Voeg jezelf toe als klant (Adres mag fake zijn)
-SELECT * FROM [Customers]
 
 INSERT INTO [Customers] (CustomerName, ContactName, Address, City, PostalCode, Country)
 VALUES (
