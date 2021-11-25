@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GewichtInSpace", "GewichtInSpace\GewichtInSpace.csproj", "{ED99C673-AA2B-481F-A0AE-CEB703B2AB87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GewichtInSpace", "GewichtInSpace\GewichtInSpace.csproj", "{ED99C673-AA2B-481F-A0AE-CEB703B2AB87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tekst", "Tekst\Tekst.csproj", "{E7029DC8-E96E-48B6-87BC-7D7BE91FC36C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tekst", "Tekst\Tekst.csproj", "{E7029DC8-E96E-48B6-87BC-7D7BE91FC36C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{51019466-8C3B-474D-BBBE-264FB60829A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{51019466-8C3B-474D-BBBE-264FB60829A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beslissingen", "Beslissingen\Beslissingen.csproj", "{5FF1CA86-4544-4B6A-81D8-844B1923F3FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beslissingen", "Beslissingen\Beslissingen.csproj", "{5FF1CA86-4544-4B6A-81D8-844B1923F3FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herhalingen", "Herhalingen\Herhalingen.csproj", "{E78463B5-909C-4AE8-9091-2401B90B622B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Herhalingen", "Herhalingen\Herhalingen.csproj", "{E78463B5-909C-4AE8-9091-2401B90B622B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methoden", "Methoden\Methoden.csproj", "{803FA57D-DA7B-4E29-8AF6-A36FA8913CF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methoden", "Methoden\Methoden.csproj", "{803FA57D-DA7B-4E29-8AF6-A36FA8913CF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{3010E728-0DF1-492C-A4B0-B92DA3B6D5E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{3010E728-0DF1-492C-A4B0-B92DA3B6D5E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
