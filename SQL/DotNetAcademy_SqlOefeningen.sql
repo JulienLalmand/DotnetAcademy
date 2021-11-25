@@ -3,9 +3,10 @@
     SELECT * 
     FROM [Customers]
     WHERE 
-        UPPER(City) = 'London' 
+        UPPER(City) = 'LONDON' 
     OR
-        UPPER(Country) = 'Germany'
+        UPPER(Country) = 'GERMANY'
+        ORDER BY CustomerName
 
 --Haal alle producten op die minder dan 40$ kosten.
 
